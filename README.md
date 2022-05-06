@@ -6,9 +6,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/vishal-sharma-703632201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal-sharma-703632201" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/visharma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="visharma" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/sharma39vishal" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sharma39vishal" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/visharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="visharma" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/visharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="visharma" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sharma39vishal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sharma39vishal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
