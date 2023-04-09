@@ -17,8 +17,8 @@ C++, C, Python, JavaScript, SQL, HTML, CSS, Mongodb, Express Js, React Js, Node 
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=sharma39vishal&show_icons=true&include_all_commits=true)](https://github.com/sharma39vishal)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharma39vishal&layout=compact)](https://github.com/sharma39vishal)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- ### ✍️ Random Dev Quote -->
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) -->
 
 <!-- ---
 [![](https://visitcount.itsvg.in/api?id=Vishal Sharma&icon=0&color=0)](https://visitcount.itsvg.in) -->
