@@ -35,7 +35,7 @@ I am dedicated, collaborative, and always striving to drive meaningful innovatio
 - 🧠 LeetCode: [sharma39vishal](https://www.leetcode.com/sharma39vishal)
 - 🍽️ CodeChef: [sharma39vishal](https://www.codechef.com/users/sharma39vishal)
 - 💪 CodeForces: [Visharma](https://codeforces.com/profile/visharma)
-- 💡 GeeksForGeeks: [sharma39vishal](https://www.geeksforgeeks.org/user/sharma39vishal)
+- 💡 GeeksForGeeks: [sharma39vishal](https://auth.geeksforgeeks.org/user/sharma39vishal)
 
 ## Education
 
