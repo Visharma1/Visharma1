@@ -27,7 +27,9 @@ I'm a passionate website developer and competitive programmer with a strong foun
 
 ## About Me
 
-I am dedicated, collaborative, and always striving to drive meaningful innovation through technology. My goal is to make a positive impact on every project I work on. Feel free to get in touch with me:
+I am dedicated, collaborative, and always striving to drive meaningful innovation through technology. My goal is to make a positive impact on every project I work on.
+
+### Feel free to get in touch with me:
 
 - 📧 Email: sharma39vishal@gmail.com
 - 🔗 LinkedIn: [sharma39vishal](https://linkedin.com/in/sharma39vishal)
