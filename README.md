@@ -11,16 +11,38 @@
 <a href="https://codeforces.com/profile/visharma" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/256/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="visharma" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sharma39vishal" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/256/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="sharma39vishal" height="30" width="40" /></a>
 
--->
 
 # Hi there, I'm Vishal Sharma! 👋
 
 - 💼 Full Stack Web Developer
 - 🎓 B.Tech in Computer Science
-- 🌍 Based in Indore, India
-- 📧 Contact: sharma39vishal@gmail.com
+- 📧 Email: sharma39vishal@gmail.com
 - 🔗 LinkedIn: [sharma39vishal](https://linkedin.com/in/sharma39vishal)
 - 💻 GitHub: [sharma39vishal](https://github.com/sharma39vishal)
+
+I'm a passionate website developer and competitive programmer with a strong foundation in computer science and a drive to create innovative solutions. 
+-->
+
+# Hi, I'm Vishal Sharma! 👋
+
+## About Me
+
+I am dedicated, collaborative, and always striving to drive meaningful innovation through technology. My goal is to make a positive impact on every project I work on. Feel free to get in touch with me:
+
+- 📧 Email: sharma39vishal@gmail.com
+- 🔗 LinkedIn: [sharma39vishal](https://linkedin.com/in/sharma39vishal)
+- 💻 GitHub: [sharma39vishal](https://github.com/sharma39vishal)
+- 🧠 LeetCode: [sharma39vishal](https://www.leetcode.com/sharma39vishal)
+- 🍽️ CodeChef: [sharma39vishal](https://www.codechef.com/users/sharma39vishal)
+- 💪 CodeForces: [Visharma](https://codeforces.com/profile/visharma)
+- 💡 GeeksForGeeks: [sharma39vishal](https://www.geeksforgeeks.org/user/sharma39vishal)
+
+## Education
+
+- **B.Tech in Computer Science and Business System**
+  - MedI-Caps University, Indore, India
+  - July 2020 - June 2024
+  - CGPA: 9.12 / 10
 
 ## 💻 Tech Stack:
 - **Frontend:** ReactJs, NextJs, Bootstrap, CSS, HTML
@@ -43,3 +65,4 @@
 - Nurturing Brilliance Cummins Scholarship
 - Ranked 578 in Code Gladiators
 - Ranked 82 in AccioWars.
+
